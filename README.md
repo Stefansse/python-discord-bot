@@ -14,5 +14,5 @@ Built with a focus on usability, reliability, and performance, this bot is suita
 
 With its modular design, the bot can easily be expanded with new features, making it adaptable to any community’s evolving needs. Whether you want music, fun, multilingual support, or community interaction, this bot provides a complete solution for modern Discord servers.
 
-[Music Player](discordbot/screenshot_6.png)
-[Meme Generator](discordbot/screenshot_7.png)
+[Music Player](discordbot/Screenshot_6.png)
+[Meme Generator](discordbot/Screenshot_7.png)
